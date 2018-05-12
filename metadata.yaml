@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2402
     wikipedia: http://it.wikipedia.org/wiki/Luigi_Capuana
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42698#Eh--la-vita....
 gutenberg_bookshelf: IT Racconti
 gutenberg_issued: '2013-05-13'
 gutenberg_type: Text
