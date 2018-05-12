@@ -1,0 +1,33 @@
+_repo: Eh--la-vita...._42698
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 42698-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Capuana, Luigi
+    birthdate: 1839
+    deathdate: 1915
+    gutenberg_agent_id: '2402'
+    url: http://www.gutenberg.org/2009/agents/2402
+    wikipedia: http://it.wikipedia.org/wiki/Luigi_Capuana
+description: ''
+gutenberg_bookshelf: IT Racconti
+gutenberg_issued: '2013-05-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42698'
+language: it
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcsh 'Short stories, Italian'
+- !lcc 'PQ'
+tableOfContents: Pasqua senz'Alleluja -- Il segreto di Dora -- Sanguedolce -- Rinnovamento
+  -- Don Mignatta -- Al Santuario -- I soliloqui di Bicci -- L'inconsolabile -- L'ultima
+  lusinga -- L'ideale -- Un sogno -- Arme ritorta -- La tragedia che -- L'amico Ramaglia
+  -- L'«Omo selvaggio».
+title: 'Eh! la vita....: Novelle'
+url: http://www.gutenberg.org/ebooks/42698
